@@ -87,7 +87,7 @@ sections:
           “It’s great to see someone taking action while still maintaining a
           sustainable fish supply to home cooks.”
         name: Isabelle Parks
-        title: Head chef at Parks
+        title: Head chef at Parksfdsfasd
         image:
           type: ImageBlock
           url: /images/isabelle-parks.jpg
